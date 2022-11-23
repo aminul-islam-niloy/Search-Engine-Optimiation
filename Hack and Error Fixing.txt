@@ -1,0 +1,56 @@
+-> gurbage page remove and tempoprary cache remove.
+-> txt file add and google seasrch console. 
+
+404 error: 
+-> go to index and coverage.
+
+step 1:
+go to this error page and obserb what's happeend on this? 
+ thare are two option:
+  go to inspect and block from robot.txt
+
+then remove and diseble and add this to robot.txt and afer that submit this.
+-> after that valided fix error 
+-> go to see details and add an screenshot and submit it on gig photo. 
+
+
+-> HTTP status code.
+-> claint request to the server. Status code tells that request is sucess or failed. 
+-> 
+
+HTTP status code block are: 
+1xx one hundred informational. 
+2xx sucess error
+3xx redidrection error
+4xx client error
+5xx server error.
+
+http status code : 
+
+500   internal server error
+5002 bad getway error
+5003 service  unavlable
+5004 server getway timeout
+
+if there are 503 error thaat's meaning somethig like that
+1. you can't paid your domain address.
+2.there is too much request that domain does not allow.
+3. it's an known error that everyone know.
+
+-> go to cPannel and chack status that bandwith is ok? 
+
+
+how can i access c pannel:
+1.yourhostname/cPanel
+2.server hostname:2083  ( we can get ip address and server host at the time of domain buying and chack email) 
+3: your ip address:2083
+
+method 3: go to your hosting account and go plan option. direct link to access to cPanel.
+here ap.domain/deshboard
+server file icon and go to cPanel
+
+
+there are differnt types of error and how can i resolve this? 
+
+
+

@@ -1,0 +1,59 @@
+ON-SITE SEO AUDIT CHECKLIST
+
+Titles are unique for each page?
+Titles length is between 50 – 65 characters?
+H1 Headings for title?
+Description tag is between 150-160 characters?
+Description tag is not keyword stuffed?
+URLS are SEO friendly?
+Use of H2 and H3 for subheadings
+Small paragraphs and use of bold, italics
+Is there a unique logo for the web site?
+Is there a favicon?
+Content on the web site is fresh?
+Content length on post pages?
+Internal linking – Do you link internal pages?
+Internal linking – Use of anchor text (is it varied?)
+Trying to rank for high competitive keywords?
+Is there an ALT tag for all images?
+Are image files names descriptive?
+Image file size is optimized?
+Blog comments have the ‘nofollow’ tag?
+External links have the ‘nofollow’ tag (if not from trusted websites)?
+Banner ads have the ‘nofollow’ tag?
+Are pages with duplicate or no content, noindex and nofollow?
+Too many ads above the fold?
+Checked for invalid use of 301 and 302 redirects?
+Site implements rel=canonical to identify the original content?
+Site checked for broken links?
+Page speed: Average time to load home page?
+Page speed: Average time to load other pages?
+Are most important pages linked to from home page?
+Are most important pages linked to from Sidebar?
+Is there a user sitemap (html) in the main menu?
+Is there a ‘related posts’ section below each detail page?
+Is there an author for all site pages?
+Is there an About, Contact and Privacy policy page?
+Is there a breadcrumb on all pages?
+Is there a custom 404 page?
+
+
+WEB SITE CONTROL CHECKLIST
+
+Is the web site registered on Google Webmaster tools?
+Is the web site registered on Bing Webmaster tools?
+Checked robots.txt?
+Is there a valid XML Sitemap?
+Is the web site registered with Google Analytics?
+SOCIAL MEDIA CHECKLIST
+Social media buttons on all pages?
+Is there a Facebook business page?
+Is there a Pinterest business page?
+Is there a twitter account?
+Are social media profiles SEO optimized?
+Facebook Like box?
+Google+ Add to circles button?
+Newsletter and RSS registration?
+
+
+

@@ -1,0 +1,39 @@
+-> html image alt is very important for seo.
+-> add meta tag in header as like:
+
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="description" content="seo for this site">
+  <meta name="author" content="aminul">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+</head>
+<body>
+
+<p>All meta information goes in the head section...</p>
+
+</body>
+</html>
+
+
+- important action as like:
+1.add title.
+2.add meta tag.  
+3. google analytics code in here. 
+4. have to add script. 
+
+-> google analytics for that site
+that analye the information about which site is and prowder, how many viewer and which device. 
+
+
+-> for a static page:
+   tracking information and tracking code. 
+
+
+-> final task:
+1.practics code.
+2. remove gurvabge and add gig like google index. 

@@ -1,0 +1,90 @@
+CMS content management System.
+
+-> wordpress create new page:
+-> keyword in h1 tag.
+-> title is in link.
+
+youst plugin for adding meta description on the website. 
+configer to go general.
+-> under construction for new website( for live option A select). 
+-> settings search engine visivility .
+
+parmalink setting. 
+use post name insteds of day and Name. 
+
+
+
+-> 
+ google search console.
+sitemap xml add.
+dns verification.
+
+coverage sitemap
+
+google index a site in fast time and index using by keyword and description.
+site:google.com.
+google sitemap indexing.
+
+
+-> disallow some linnk and ignore them by robot.txt file.
+
+robot.txt can be create by youst seo. 
+
+
+we can remove unexpected and unused link and can tell google not to index that that page:
+how can we do that? 
+
+go to google search console and select learn more from legacy tool and reports. 
+-> help robot.txt tester. 
+
+disallow: page path URI afer a domain address. 
+the need to test before uploading. 
+
+give an uri address and gurbage and test. 
+
+use as example as like: /aminul-home.
+google addboots didnot follow the same it will observe the whole website by using adsbots. 
+
+
+-> we can use this by 2 way.
+1. copy this code
+2. download this file 
+
+go to c panel and file manager. 
+-> public.html.
+robot.txt.
+edit button and edit. 
+save change and go to goole console sitemap and submit then 
+update google to submit. 
+
+_> to chack the large website robots.txt we can use website.com/robots.txt
+
+copy that and chack that on the wewbsite/link .
+
+what is Right  way to  do this is 404 error and that page is disallow from the website. 
+-> no index or desible that site. 
+
+
+-> if gurbage is occurs then how can we remove that link? 
+go to removes that appears on the index. 
+click on the removes. 
+
+add new request. 
+we can remove by two way 
+1.temporary remove and 
+2.cache remove. 
+
+if we select cache remove then it remove cache that is 1st time indexing . 
+
+if clinet is require to remove only cache file from the site that has
+ many usable information then we remove only the cache file from sitemap.
+
+next request and submit and it will be pending at the request list. 
+
+
+-> to temporary remove what i have to do? 
+
+-> we have to wait for ranking after indexing. 
+after ranking algorithm it will rank. 
+
+

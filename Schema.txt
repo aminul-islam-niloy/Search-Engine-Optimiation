@@ -1,0 +1,28 @@
+website viewing product details and product item that's come to website first in the use of schema.
+
+-> schema in wordpress: 
+youst then go general -> then configure wizard
+-> if your site is like online shop then it will generates json LD code automatically. 
+if we go to product website source page then we can see an script that are automatically generates by the youst seo. 
+
+-> if we want to genatate a code that is static ;
+ then go to search console.
+-> before going to search console you have to copy that site address;
+-> go to legacy tools and report
+-> then go to web tools
+-> go to testing tools
+
+if code is already ccreated you can verify that code by structred data testing tools.
+-> paste and run code. 
+-> you can see many warning that's need to sesolve and finout the errror
+
+-> if you chosse second option then go to structred option. 
+-> data markup helper: 
+select the item catagories and start tagging. 
+
+it's an importan issues that if we use youst seo it will generates and again 
+if we make code and submit it on the deshboard pannel then therre will 
+be showing manay warning and error.
+because of duplicate code .
+
+how can we eleminate that? 
